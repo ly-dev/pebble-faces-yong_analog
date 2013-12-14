@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0.0",
+    "uuid": "518fe2af-c69d-46c7-aca0-d2dc9d6c589e",
+    "appKeys": {},
+    "longName": "yong_analog",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "yong_analog",
+    "companyName": "Yong Test",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": []
+    }
+}
